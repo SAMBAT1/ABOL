@@ -312,7 +312,7 @@ function create_config( )
 "lock_tag",
 "News",
     },
-    sudo_users = {(275579349)},(275579349)
+    sudo_users = {(293835020)},(293835020)
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
@@ -333,7 +333,7 @@ topkecleon
 Vamptacus
 
 Our channels
-@Bat_Strike
+@iD_SHOMARE_MAJaZE_iD
 Our website 
 http://teleseed.seedteam.org/
 ]],
@@ -525,10 +525,7 @@ _________________________________________
 نکته »»قبل از نوشتن کلمه های بالا گذاشتن !    
 !دراول دستور فراموش نشود
 #ID SUDO: @oOo_SUDO_Link_Doni_oOo 
-#ID Channel: @LINK_DONI_TM
-#ID Bot messenger: @sudo_Link_Doni_TMBoT
-
-
+#ID Channel: @iD_SHOMARE_MAJaZE_iD
 منتظر شمادوستان گل هستیم ❤️🌹💋
 _________________________________________
 
@@ -658,8 +655,7 @@ _________________________________________
 نکته »»قبل از نوشتن کلمه های بالا گذاشتن !    
 !دراول دستور فراموش نشود
 #ID SUDO: @oOo_SUDO_Link_Doni_oOo 
-#ID Channel: @LINK_DONI_TM
-#ID Bot messenger: @sudo_Link_Doni_TMBoT
+#ID Channel: iD_SHOMARE_MAJaZE_iD
 منتظر شمادوستان گل هستیم ❤️🌹💋
 _________________________________________
 _________________________________________
